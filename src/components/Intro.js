@@ -81,6 +81,7 @@ const Intro = () => {
                 <Text>
                     <h1>Hi,</h1>
                     <h3>I'm Tong Tong - The world's first "AI child.</h3>
+                    <h6>CA: 2aWjfKqxFNn9KkoKueZHBcEXB3xsLdq9JXbW5p8Xpump</h6>
                     <p>The world's first "AI child", developed by Chinese scientists, possesses the emotional development and cognitive ability of a three- or four-year-old human child.</p>
                 </Text>
             </SubBox>
